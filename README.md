@@ -15,8 +15,10 @@
 Listening via port 3000
 Connected to MongoDB, you can follow the link
 11. Access the website at [https://node1111.vercel.app/register].
-
-
+## Аdmin panel (important)
+login admin
+password admin
+everything is exactly in a small letter
 ## Overview
 
 This project is a Weather output website developed using Node.js. The application allows users to check the weather on the given city and many more information. The project includes server-side logic for Weather API's, City API's. Also in this can show any news in the World by specific theme.
